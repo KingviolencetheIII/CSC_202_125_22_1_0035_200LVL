@@ -1,0 +1,1 @@
+C:\Program Files\JetBrains\PyCharm Community Edition 2022.1.1\plugins\python-ce\helpers\pip-20.3.4-py2.py3-none-any.whl\pip install --no-index C:\Program Files\JetBrains\PyCharm Community Edition 2022.1.1\plugins\python-ce\helpers\setuptools-44.1.1-py2.py3-none-any.whl
